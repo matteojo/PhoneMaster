@@ -1,2 +1,2 @@
 apt install adb
-echo FINI
+echo "FINI !!!"
